@@ -16,4 +16,4 @@ The actual tasks to be solved in the interview will be send out during the inter
 `src/com/arvatosystems/us/training`
 
 
-*Arvato is looking forward to talk to you!*
+*Arvato is looking forward to talking to you!*
